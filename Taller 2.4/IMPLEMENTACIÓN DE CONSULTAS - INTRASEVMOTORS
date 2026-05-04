@@ -1,9 +1,8 @@
-// =========================================================
-// IMPLEMENTACIÓN DE CONSULTAS - INTRASEVMOTORS
-// NIVEL: 4to/5th CICLO (WinForms + Entity Framework)
-// =========================================================
 
-// --- CONSULTAS BÁSICAS (2) ---
+// IMPLEMENTACIÓN DE CONSULTAS - INTRASEVMOTORS
+
+
+//  CONSULTAS BÁSICAS (2) 
 
 // 1. Listar todos los Clientes (CRUD: Listar)
 private void btnListarClientes_Click(object sender, EventArgs e)
